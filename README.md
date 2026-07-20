@@ -6,7 +6,7 @@
 ---
 
 ## 🏆 Awards
-* **Poster Paper Encouragement Award** (포스터논문 장려상) | Korea Statistical Society (한국통계학회) Winter Conference (Dec 2025)
+* **Poster Paper Award, Honorable Mention** (포스터논문상 장려상) | Korea Statistical Society (KSS) Winter Conference (Dec 2025)
 
 ---
 
