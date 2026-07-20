@@ -18,4 +18,5 @@
 
 ---
 
-📫 **Contact:** codnjs914@gmail.com
+## 📫 Contact 
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codnjs914@gmail.com)
