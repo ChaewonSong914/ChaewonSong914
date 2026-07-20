@@ -18,5 +18,13 @@
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+---
+
 ## 📫 Contact 
-[![Gmail](https://img.shields.io/badge/gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:codnjs914@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codnjs914@gmail.com)
