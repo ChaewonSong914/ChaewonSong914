@@ -6,14 +6,14 @@
 ---
 
 ## 🏆 Awards
-* **Poster Paper Award, Honorable Mention** (포스터논문상 장려상) | Korea Statistical Society (KSS) Winter Conference (Dec 2025)
+* **Poster Paper Award, Honorable Mention** (포스터논문상 장려상) | Korean Statistical Society (KSS) Winter Conference (Dec 2025)
 
 ---
 
 ## 🎤 Conference Presentations
 * **Poster Presentation** | 9th International Conference on Econometrics and Statistics (EcoSta 2026) (Aug 2026)
   * **Title:** An Adaptive Empirical Bayes Confidence Interval for Mean Estimation under Mean-Variance Dependence
-* **Poster Presentation** | Korea Statistical Society (KSS) Winter Conference (Dec 2025)
+* **Poster Presentation** | Korean Statistical Society (KSS) Winter Conference (Dec 2025)
   * **Title:** Sharpening Variance Estimation: An Empirical Bayes Approach under Mean-Variance Dependence
 
 ---
